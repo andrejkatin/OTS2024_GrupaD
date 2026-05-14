@@ -1,7 +1,7 @@
-﻿using OTS2023_GrupaC.Exceptions;
-using OTS2023_GrupaC.Models;
+﻿using OTS2026_GrupaD.Exceptions;
+using OTS2026_GrupaD.Models;
 
-namespace OTS2023_GrupaC
+namespace OTS2026_GrupaD
 {
 
     public enum Direction

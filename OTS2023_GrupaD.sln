@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31129.286
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2023_GrupaD", "OTS2023_GrupaC\OTS2023_GrupaD.csproj", "{C4106848-149E-44CC-B87E-CA352C232A93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2026_GrupaD", "OTS2023_GrupaC\OTS2026_GrupaD.csproj", "{C4106848-149E-44CC-B87E-CA352C232A93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2023_GrupaD.Test", "OTS2023_GrupaC.Test\OTS2023_GrupaD.Test.csproj", "{0C749A29-E1ED-4ACB-BA56-95A39FB004D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2026_GrupaD.Test", "OTS2023_GrupaC.Test\OTS2026_GrupaD.Test.csproj", "{0C749A29-E1ED-4ACB-BA56-95A39FB004D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -2,7 +2,7 @@
 
 using System;
 
-namespace OTS2023_GrupaC.Models
+namespace OTS2026_GrupaD.Models
 {
     public class Location
     {
